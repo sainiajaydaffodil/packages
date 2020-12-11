@@ -1,0 +1,17 @@
+{
+    "name": "sainisunny246/daffoadmin",
+    "description": "Get Start With Ready Made Admin Panel",
+    "authors": [
+        {
+            "name": "sainiajaydaffodil",
+            "email": "ajay.saini@daffodilsw.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "SainiSunny246\\DaffoAdmin\\": "src/"
+        }
+    },
+    "require": {}
+}
