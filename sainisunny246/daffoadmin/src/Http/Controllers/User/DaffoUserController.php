@@ -19,7 +19,7 @@ class DaffoUserController extends DaffoAdminController{
     }
     
     /**
-     * Function to list all users 
+     * Function to list all users listing
      */
     public function index()
     {
